@@ -1,5 +1,7 @@
 # PnP-Powershell-Selector
 
+![Powershell](doc/SelectPnPEnvironment-480.gif)
+
 ## What is this all about
 
 This repository contains sample Powershell scripts that can be used in your own profile for easy client ID selection.
