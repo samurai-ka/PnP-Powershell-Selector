@@ -41,7 +41,7 @@ All examples write the GUID of the selected client IDs to the environment variab
 
 ---
 
-### Installing the cmdlet to your Powershell profile
+### Adding the cmdlets to your Powershell profile
 
 Open your Powershell profile with an editor of your choice. In this case we'll use Visual Studio Code.
 
